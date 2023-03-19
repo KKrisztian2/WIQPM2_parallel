@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1678568240 source:d:\codeblocks\egyetem\parallel\het1\wiqpm2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<math.h>
+
