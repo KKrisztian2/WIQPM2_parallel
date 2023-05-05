@@ -1,7 +1,7 @@
 # WIQPM2_parallel
 
-pthread - Mátrix inverzének megtalálása adjungált mátrix segítségével.
+pthread - Mátrix inverzének megtalálása adjungált mátrix segítségével. nxn mátrix, n szál, futási idő összehasonlítása szekvenciális megoldás esetén.
 
-openmp - Genetikus algoritmus segítségével a traveling salesman probléma megoldása.
+openmp - Genetikus algoritmus segítségével a traveling salesman probléma megoldása. Szálak számának függvényében a futási idő az optimális út megtalálásáig.
 
-? - Monte Carlo algoritmus integrál kiszámításához.
+Windows Threads - Monte Carlo algoritmus integrál kiszámításához. Szálak és pontok függvényében a futási sebsség összehasonlítása.
