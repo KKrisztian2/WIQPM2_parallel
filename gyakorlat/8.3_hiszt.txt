@@ -1,0 +1,6 @@
+HISZT(@A, n, 0, 9, @R)
+// Input: A (egész értékeket tartalmazó tömb, n az A tömb elemszáma, [0, 9] intervallum
+// Output: R gyakoriságok tömbje
+FOR i <- 1 TO n DO
+   INC(C[a[i])
+RETURN(C)
